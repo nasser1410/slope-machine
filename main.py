@@ -128,7 +128,7 @@ def main():
     balance = deposit()
     while True:
         print(f'Your balance is ${balance}')
-        answer = input('Press Enter to spin Again(q to quite)')
+        answer = input('Press Enter to Play(q to quite)')
         if answer == 'q':
             break
         balance += spin(balance)
