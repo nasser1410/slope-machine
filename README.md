@@ -1,6 +1,6 @@
 ## Slope Machine
 
-### siples Example
+### Simple Example
 
 ```python
 
